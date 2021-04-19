@@ -1,6 +1,6 @@
 ## Reviewberk 
 
-Bir albüm inceleme uygulaması. Burada bahsettiğimiz konu kullanıcıların dinlemekten zevk aldığı albümler hakkında yazıları okumaları ve dilerlerse uygulama içinden ilgili albümlere ulaşması. Uygulama içinde birçok içerik bulunmaktadır. Bunlar şimdilik uygulamanın ana amacı etrafında şekillenen #albumreviews, haftalık 'underrated' gruplar olarak tabir ettiğimiz grupların incelendiği #weeklyunderrated, ve de hikayesi olan fotoğraflar hakkında yazıların bulunduğu #photostory kısmıdır. 
+Bir albüm inceleme uygulaması. Burada bahsettiğimiz konu kullanıcıların dinlemekten zevk aldığı albümler hakkında yazıları okumaları ve dilerlerse uygulama içinden ilgili albümlere ulaşması. Uygulama içinde birçok içerik bulunmaktadır. Bunlar şimdilik uygulamanın ana amacı etrafında şekillenen #albumreviews, haftalık 'underrated' gruplar olarak tabir ettiğimiz grupların incelendiği #weeklyunderrated, ve de hikayesi olan fotoğraflar hakkında yazıların bulunduğu #photostory kısmıdır. Ayrıca story kısmı bulunan uygulamada bu kısım ile albüm hakkında yazılardan ve diğer içeriklerden kullanıcıların haberdar edilmesi amaçlanmıştır.
 
 ## Uygulama İçinden Fotoğraflar
 
